@@ -8,3 +8,14 @@
     font-weight: 500;
     font-family: 'poppins';
 }
+
+#footer {
+    background-image: url(./image/contact\ form\ background\ shapes\ 1.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 80vh;
+    background-position: 90% 0%;
+    background-attachment: scroll;
+    font-weight: 500;
+    font-family: 'poppins';
+}
